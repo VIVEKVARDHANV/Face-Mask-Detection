@@ -66,8 +66,8 @@ The final model is deployed using [Streamlit](https://streamlit.io/) for real-ti
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/realtime-face-mask-classification.git
-   cd realtime-face-mask-classification
+   git clone https://github.com/VIVEKVARDHANV/Face-Mask-Detection.git
+   cd Face-Mask-Detection
    ```
 
 2. **Install Dependencies**:
